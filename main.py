@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 from printliketype import timeprint
 
-=======
->>>>>>> dd9d5f39936ed443da6c31e1044506eaa8414cbc
 print(r"""
 ==================================================
  ____           ____         _______
@@ -15,7 +12,6 @@ print(r"""
 ==================================================
 """)
 
-<<<<<<< HEAD
 # player_gender = input("Are you a boy or girl?\n: ")
 # player_name = input("Name? its not Abdulla ryt?\n: ")
 # player_age = input("Age\n: ")
@@ -56,7 +52,7 @@ elif ch == 'b':
 
 	elif ch == 'c':
 		timeprint("Well, you actually don't necessarily need this particular job. Moreover, there million other jobs out there, there is no way you wont get one. Anyway if the employers don't see you, probably they'll call you, so you'll just wait. Coincidence? \"I don't think so\", just immediately your phone rings...")
-=======
+
 player_gender = input("Are you a boy or girl?\n: ")
 player_name = input("Name? its not Abdulla ryt?\n: ")
 player_age = input("Age\n: ")
@@ -72,7 +68,7 @@ if ch == 'a':
 	if ch == 'a':
 		print("Even then you being lazy and tired overruled your worries for getting a job and you stayed there until you heard a knock.....")
 	elif ch == 'b':
-		print("This thought really triggered you and you jumped out of your bed only to realize that you were not in your house but rather some where so familiar...")
+		print("This thought really triggered you and you jumped out of your bed only to realize that you were not in your house but rather some where so familiar...")<<<<<<< HEAD
 	elif ch == 'c':
 		print("You being lazy and tired didn't move an inch from the bed rather you reached over to the bedside table for the phone and dialed....")
 
@@ -89,4 +85,4 @@ elif ch == 'b':
 
 	elif ch == 'c':
 		print("Well, you actually don't necessarily need this particular job. Moreover, there million other jobs out there, there is no way you wont get one. Anyway if the employers don't see you, probably they'll call you, so you'll just wait. Coincidence? \"I don't think so\", just immediately your phone rings...")
->>>>>>> dd9d5f39936ed443da6c31e1044506eaa8414cbc
+

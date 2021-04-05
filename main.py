@@ -68,7 +68,7 @@ if ch == 'a':
 	if ch == 'a':
 		print("Even then you being lazy and tired overruled your worries for getting a job and you stayed there until you heard a knock.....")
 	elif ch == 'b':
-		print("This thought really triggered you and you jumped out of your bed only to realize that you were not in your house but rather some where so familiar...")<<<<<<< HEAD
+		print("This thought really triggered you and you jumped out of your bed only to realize that you were not in your house but rather some where so familiar...")
 	elif ch == 'c':
 		print("You being lazy and tired didn't move an inch from the bed rather you reached over to the bedside table for the phone and dialed....")
 
